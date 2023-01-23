@@ -718,8 +718,8 @@ a {
   text-align: center;
 }
 .cid-s48MCQYojq {
-  padding-top: 8rem;
-  padding-bottom: 8rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
   background-image: url("../../../assets/images/patchcord-scapc-1500x1000.jpg");
 }
 .cid-s48MCQYojq .mbr-section-title {
@@ -739,8 +739,8 @@ a {
   }
 }
 .cid-ttqjOGn3Ah {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   background-color: #000000;
 }
 .cid-ttqjOGn3Ah .mbr-fallback-image.disabled {
@@ -819,7 +819,7 @@ a {
 }
 .cid-ttqfkR65GK {
   padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
   background-color: #000000;
 }
 .cid-ttqfkR65GK .mbr-fallback-image.disabled {
@@ -861,7 +861,7 @@ a {
 }
 .cid-ttFJWJPOzF {
   padding-top: 0rem;
-  padding-bottom: 0rem;
+  padding-bottom: 1rem;
   background-color: #000000;
 }
 .cid-ttFJWJPOzF .mbr-fallback-image.disabled {
@@ -903,7 +903,7 @@ a {
 }
 .cid-ttqfhtoea1 {
   padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-bottom: 3rem;
   background-color: #ffffff;
 }
 .cid-ttqfhtoea1 .mbr-fallback-image.disabled {
@@ -1183,11 +1183,6 @@ a {
 }
 .cid-s48OLK6784 .navbar.collapsed.opened .dropdown-menu {
   top: 0;
-}
-@media (min-width: 992px) {
-  .cid-s48OLK6784 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.5rem);
-  }
 }
 .cid-s48OLK6784 .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
@@ -1774,11 +1769,6 @@ a {
 }
 .cid-ttGnCm1P0M .navbar.collapsed.opened .dropdown-menu {
   top: 0;
-}
-@media (min-width: 992px) {
-  .cid-ttGnCm1P0M .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.5rem);
-  }
 }
 .cid-ttGnCm1P0M .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
